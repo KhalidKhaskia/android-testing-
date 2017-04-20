@@ -1,0 +1,19 @@
+1 ====> /C/Users/khaloda/Documents/GitHub
+
+//////////////////////////////////////////////////////////////////////////////
+2 ====>
+ crreate reposotory :
+
+echo "# android-testing-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/KhalidKhaskia/android-testing-.git
+git push -u origin master
+
+//////////////////////////////////////////////////////////////////////////////
+3 ====>
+push reposotory :
+
+git remote add origin https://github.com/KhalidKhaskia/android-testing-.git
+git push -u origin master
